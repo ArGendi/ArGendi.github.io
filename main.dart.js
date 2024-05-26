@@ -38905,7 +38905,7 @@ ac(){return new A.I8(A.pw(),B.l)}}
 A.I8.prototype={
 M(a){var s=null,r=A.bV(a,s,t.w).w,q=A.B9(0),p=t.p
 q=A.adq(B.j,A.j7(A.a([B.N,A.kC(new A.a4C(a),B.iK),A.kC(new A.a4D(a),B.iI),A.kC(new A.a4E(a),B.iJ)],p),s),new A.bZ(q,B.q))
-return A.pt(A.nP(s,!0,B.h,!0,B.j,A.hU(s,B.cy,B.ao,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a4F(this),s,s,s)),A.j7(A.a([A.eV(A.hb(B.aK,A.a([A.nZ(A.dw("WHO WE ARE",A.cr(s,s,B.h4,s,s,s,s,s,"Rainly",s,s,r.a.a*0.2,s,s,s,s,0.8,!0,s,s,s,s,s,s,s,s),B.H),s,s),B.x1],p),B.aS),300,1/0),B.aw,new A.bc(B.bd,A.d7(A.a([B.zO,B.N,A.d1(B.A,A.cO("images/girl.jpg",B.ae,450,s),B.x,s,10,s,s,s,s,s,B.T)],p),B.r,B.b1,B.m),s),B.ax,new A.bc(B.bd,A.d7(A.a([B.A0,B.N,A.d1(B.A,A.cO("images/inspection.jpg",B.ae,470,s),B.x,s,10,s,s,s,s,s,B.T)],p),B.r,B.b1,B.m),s),B.ax,new A.bc(B.bd,A.d7(A.a([B.zQ,B.N,A.d1(B.A,A.cO("images/look_ahead.jpg",B.ae,450,s),B.x,s,10,s,s,s,s,s,B.T)],p),B.r,B.b1,B.m),s),B.ax,B.fG],p),this.d),q)},
+return A.pt(A.nP(s,!0,B.h,!0,B.j,A.hU(s,B.cy,B.ao,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a4F(this),s,s,s)),A.j7(A.a([A.eV(A.hb(B.aK,A.a([A.nZ(A.dw("WHO WE ARE",A.cr(s,s,B.h4,s,s,s,s,s,"Rainly",s,s,r.a.a*0.2,s,s,s,s,0.8,!0,s,s,s,s,s,s,s,s),B.H),s,s),B.x1],p),B.aS),300,1/0),B.aw,new A.bc(B.bd,A.d7(A.a([B.zO,B.N,A.d1(B.A,A.cO("images/girl_mobile.jpg",B.ae,450,s),B.x,s,10,s,s,s,s,s,B.T)],p),B.r,B.b1,B.m),s),B.ax,new A.bc(B.bd,A.d7(A.a([B.A0,B.N,A.d1(B.A,A.cO("images/inspection_mobile.jpg",B.ae,470,s),B.x,s,10,s,s,s,s,s,B.T)],p),B.r,B.b1,B.m),s),B.ax,new A.bc(B.bd,A.d7(A.a([B.zQ,B.N,A.d1(B.A,A.cO("images/look_ahead_mobile.jpg",B.ae,450,s),B.x,s,10,s,s,s,s,s,B.T)],p),B.r,B.b1,B.m),s),B.ax,B.fG],p),this.d),q)},
 l(){this.aB()
 this.d.l()}}
 A.a4C.prototype={
@@ -38941,7 +38941,7 @@ A.bV(a,q,t.w).toString
 s=A.B9(0)
 r=t.p
 s=A.adq(B.j,A.j7(A.a([B.N,A.kC(new A.a6a(a),B.iK),A.kC(new A.a6b(a),B.iI),A.kC(new A.a6c(a),B.iJ)],r),q),new A.bZ(s,B.q))
-return A.pt(A.nP(q,!0,B.h,!0,B.j,A.hU(q,B.cy,B.ao,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.a6d(a),q,q,q)),A.j7(A.a([A.hb(B.aK,A.a([A.cO("images/FRANKFURT.png",B.ae,200,1/0),A.v4(A.dC(q,q,B.j,q,200,q,q,1/0),0.8),A.eV(A.nZ(A.d7(A.a([B.P1,B.Q1,A.fa(!1,!0,B.Qd,q,!0,q,q,q,q,q,q,q,q,q,new A.a6e(),q,q,q,q)],r),B.r,B.p,B.bu),q,q),200,q)],r),B.aS),B.ax,A.d7(A.a([A.d1(B.A,A.cO("images/germany.jpg",B.ae,330,280),B.x,q,8,q,q,q,q,q,B.T),B.N,B.zP],r),B.r,B.p,B.bu),B.ax,A.d7(A.a([A.d1(B.A,A.cO("images/egypt.jpg",B.ae,330,280),B.x,q,8,q,q,q,q,q,B.T),B.N,B.A1],r),B.r,B.p,B.bu),B.ax,B.fG],r),q),s)}}
+return A.pt(A.nP(q,!0,B.h,!0,B.j,A.hU(q,B.cy,B.ao,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.a6d(a),q,q,q)),A.j7(A.a([A.hb(B.aK,A.a([A.cO("images/FRANKFURT_mobile.png",B.ae,200,1/0),A.v4(A.dC(q,q,B.j,q,200,q,q,1/0),0.8),A.eV(A.nZ(A.d7(A.a([B.P1,B.Q1,A.fa(!1,!0,B.Qd,q,!0,q,q,q,q,q,q,q,q,q,new A.a6e(),q,q,q,q)],r),B.r,B.p,B.bu),q,q),200,q)],r),B.aS),B.ax,A.d7(A.a([A.d1(B.A,A.cO("images/germany_mobile.jpg",B.ae,330,280),B.x,q,8,q,q,q,q,q,B.T),B.N,B.zP],r),B.r,B.p,B.bu),B.ax,A.d7(A.a([A.d1(B.A,A.cO("images/egypt_mobile.jpg",B.ae,330,280),B.x,q,8,q,q,q,q,q,B.T),B.N,B.A1],r),B.r,B.p,B.bu),B.ax,B.fG],r),q),s)}}
 A.a6a.prototype={
 $0(){A.cg(this.a).mE(new A.a64())},
 $S:0}
@@ -39005,7 +39005,7 @@ A.bV(a,q,t.w).toString
 s=A.B9(0)
 r=t.p
 s=A.adq(B.j,A.j7(A.a([B.N,A.kC(new A.a7w(a),B.iK),A.kC(new A.a7x(a),B.iI),A.kC(new A.a7y(a),B.iJ)],r),q),new A.bZ(s,B.q))
-return A.pt(A.nP(q,!0,B.h,!0,B.j,A.hU(q,B.cy,B.ao,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.a7z(this),q,q,q)),A.j7(A.a([B.Bk,B.ax,B.Rm,B.ax,B.GQ,B.f7,B.yW,B.aw,new A.bc(B.bd,A.d7(A.a([A.cO("images/p1_mockup.png",q,q,280),B.aw,B.Aa],r),B.r,B.p,B.m),q),B.ax,new A.bc(B.bd,A.d7(A.a([A.cO("images/p3_mockup.png",q,q,300),B.A_],r),B.r,B.p,B.m),q),B.ax,new A.bc(B.bd,A.d7(A.a([A.cO("images/sport_mockup.png",q,q,280),B.A2],r),B.r,B.b1,B.m),q),B.ax,B.N,B.fG],r),this.d),s)},
+return A.pt(A.nP(q,!0,B.h,!0,B.j,A.hU(q,B.cy,B.ao,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.a7z(this),q,q,q)),A.j7(A.a([B.Bk,B.ax,B.Rm,B.ax,B.GQ,B.f7,B.yW,B.aw,new A.bc(B.bd,A.d7(A.a([A.cO("images/p1_mockup_mobile.png",q,q,280),B.aw,B.Aa],r),B.r,B.p,B.m),q),B.ax,new A.bc(B.bd,A.d7(A.a([A.cO("images/p3_mockup_mobile.png",q,q,300),B.A_],r),B.r,B.p,B.m),q),B.ax,new A.bc(B.bd,A.d7(A.a([A.cO("images/sport_mockup_mobile.png",q,q,280),B.A2],r),B.r,B.b1,B.m),q),B.ax,B.N,B.fG],r),this.d),s)},
 l(){this.aB()
 this.d.l()}}
 A.a7w.prototype={
@@ -39203,7 +39203,7 @@ A.tS.prototype={
 ac(){return new A.Kj(null,null,B.l)}}
 A.Kj.prototype={
 M(a){var s=null,r=A.bV(a,s,t.w).w
-return A.hb(B.aK,A.a([new A.bc(B.kI,A.cO("images/developer_team.jpg",B.ae,380,1/0),s),B.yY,A.v4(A.dC(s,B.wZ,B.j,s,380,s,s,1/0),0.8),A.ZV(0,A.d1(B.A,A.dC(s,B.k5,B.h,s,s,s,s,200),B.x,s,15,s,B.bv,s,s,s,B.T),s,s,r.a.a*0.5-100,s,s,s)],t.p),B.aS)}}
+return A.hb(B.aK,A.a([new A.bc(B.kI,A.cO("images/developer_team_mobile.jpg",B.ae,380,1/0),s),B.yY,A.v4(A.dC(s,B.wZ,B.j,s,380,s,s,1/0),0.8),A.ZV(0,A.d1(B.A,A.dC(s,B.k5,B.h,s,s,s,s,200),B.x,s,15,s,B.bv,s,s,s,B.T),s,s,r.a.a*0.5-100,s,s,s)],t.p),B.aS)}}
 A.P2.prototype={
 bQ(){this.d7()
 this.cA()
